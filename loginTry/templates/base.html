@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My App</title>
+    <!-- Include your CSS stylesheets or links to external stylesheets here -->
+</head>
+<body>
+    <header>
+
+        <h1>CCC IITG Task</h1>
+        <nav>
+            <ul>
+                {% comment %} <li><a href="{% url 'home' %}">Home</a></li> {% endcomment %}
+                <li><a href="{% url 'login' %}">Login</a></li>
+                <!-- Include other navigation links as needed -->
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}
+
+        {% endblock %}
+    </main>
+
+    <footer>
+
+        <p>© 2023 CCC IITG Task. All rights reserved.</p>
+    </footer>
+
+
+</body>
+</html>
