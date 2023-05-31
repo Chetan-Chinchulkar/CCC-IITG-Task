@@ -6,6 +6,11 @@ This is a task to implement login feature using basic django and using normal da
 
 [Documentation(Chetan-Chinchulkar)](https://chetan-chinchulkar.notion.site/CCC-IIT-Guwahati-Task-f62a8bb091e4429eaa3464cc5fe6b923)
 
+## For Virtualenv:
+- **Windows**: https://youtu.be/APOPm01BVrk
+- **Linux**: https://youtu.be/Kg1Yvry_Ydk
+
+
 ## Run Locally
 
 Clone the project
